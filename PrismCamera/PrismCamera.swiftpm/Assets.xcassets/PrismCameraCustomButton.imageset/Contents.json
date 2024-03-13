@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "PrismCameraCustomButton.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
