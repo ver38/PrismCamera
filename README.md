@@ -12,9 +12,9 @@ The camera was set up and built with AVFoundation, while the image-processing wa
 Made with Swift Playgrounds.
 
 ## Credits
-Thanking who supported me emotionally during those two weeks, would never be enough. 
-
+Thanking who supported me emotionally during those two weeks will never be enough. 
 I found in you all a sense of community.
+
 ## License
 MIT License
 
